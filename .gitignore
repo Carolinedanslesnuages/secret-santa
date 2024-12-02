@@ -1,0 +1,31 @@
+# Fichiers Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.log
+
+# Fichiers de configuration
+.env
+
+# Dossiers d'environnement virtuel
+venv/
+.env/
+.venv/
+
+# Dossiers spécifiques au système
+.DS_Store
+Thumbs.db
+
+# Journaux et bases de données locales
+*.sqlite3
+*.db
+
+# Fichiers créés par les IDEs/éditeurs
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Fichiers générés
+*.json~  # Sauvegardes temporaires

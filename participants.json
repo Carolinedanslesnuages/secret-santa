@@ -1,0 +1,498 @@
+[
+    {
+        "name": "Alice",
+        "email": "alice@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "B) Non-fiction",
+            "movie": "Stranger Things",
+            "drink": "A) Café",
+            "hobby": "C) Sport",
+            "app": "A) Réseaux sociaux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "B) Bonbons",
+            "music": "D) Jazz",
+            "gift_preference": "C) Un cadeau personnalisé"
+        }
+    },
+    {
+        "name": "Bob",
+        "email": "bob@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "Game of Thrones",
+            "drink": "B) Thé",
+            "hobby": "A) Dessin/Peinture",
+            "app": "B) Jeux",
+            "superpower": "A) Voler",
+            "snack_tv": "A) Popcorn",
+            "music": "B) Rock",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "C) Bande dessinée",
+            "movie": "The Office",
+            "drink": "C) Les deux",
+            "hobby": "B) Musique",
+            "app": "C) Productivité",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Donna",
+        "email": "donna@example.com",
+        "preferences": {
+            "snack": "D) Autre",
+            "book": "A) Fiction",
+            "movie": "Breaking Bad",
+            "drink": "A) Café",
+            "hobby": "B) Musique",
+            "app": "A) Réseaux sociaux",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "A) Popcorn",
+            "music": "C) Classique",
+            "gift_preference": "D) Surprise totale"
+        }
+    },
+    {
+        "name": "Call",
+        "email": "call@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Coline",
+        "email": "coline@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Cassy",
+        "email": "casse@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Mary",
+        "email": "marie@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Caze",
+        "email": "email@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "aze",
+        "email": "email@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "poline",
+        "email": "poline@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Chimene",
+        "email": "chichi@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "Friends",
+            "drink": "B) Thé",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Tom",
+        "email": "tom@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "The Mandalorian",
+            "drink": "B) Thé",
+            "hobby": "D) Photographie",
+            "app": "C) Productivité",
+            "superpower": "A) Voler",
+            "snack_tv": "C) Noix",
+            "music": "B) Rock",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Jerry",
+        "email": "jerry@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "C) Bande dessinée",
+            "movie": "Seinfeld",
+            "drink": "A) Café",
+            "hobby": "A) Jardinage",
+            "app": "B) Jeux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "A) Popcorn",
+            "music": "D) Jazz",
+            "gift_preference": "D) Surprise totale"
+        }
+    },
+    {
+        "name": "Mia",
+        "email": "mia@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "The Crown",
+            "drink": "B) Thé",
+            "hobby": "B) Musique",
+            "app": "A) Réseaux sociaux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "B) Bonbons",
+            "music": "C) Classique",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Luke",
+        "email": "luke@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "Star Wars",
+            "drink": "C) Les deux",
+            "hobby": "A) Dessin/Peinture",
+            "app": "C) Productivité",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Leia",
+        "email": "leia@example.com",
+        "preferences": {
+            "snack": "D) Autre",
+            "book": "B) Non-fiction",
+            "movie": "Harry Potter",
+            "drink": "B) Thé",
+            "hobby": "D) Photographie",
+            "app": "A) Réseaux sociaux",
+            "superpower": "A) Voler",
+            "snack_tv": "A) Popcorn",
+            "music": "B) Rock",
+            "gift_preference": "D) Surprise totale"
+        }
+    },
+    {
+        "name": "Sophia",
+        "email": "sophia@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "C) Bande dessinée",
+            "movie": "Friends",
+            "drink": "A) Café",
+            "hobby": "C) Sport",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "B) Bonbons",
+            "music": "C) Classique",
+            "gift_preference": "C) Un cadeau personnalisé"
+        }
+    },
+    {
+        "name": "Ella",
+        "email": "ella@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "Breaking Bad",
+            "drink": "C) Les deux",
+            "hobby": "B) Musique",
+            "app": "A) Réseaux sociaux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "C) Noix",
+            "music": "D) Jazz",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Oliver",
+        "email": "oliver@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "The Simpsons",
+            "drink": "A) Café",
+            "hobby": "D) Autre",
+            "app": "C) Productivité",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "B) Bonbons",
+            "music": "A) Pop",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Amelia",
+        "email": "amelia@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "B) Non-fiction",
+            "movie": "House of Cards",
+            "drink": "B) Thé",
+            "hobby": "A) Dessin/Peinture",
+            "app": "B) Jeux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "C) Noix",
+            "music": "C) Classique",
+            "gift_preference": "C) Un cadeau personnalisé"
+        }
+    },
+    {
+        "name": "Mason",
+        "email": "mason@example.com",
+        "preferences": {
+            "snack": "D) Autre",
+            "book": "C) Bande dessinée",
+            "movie": "How I Met Your Mother",
+            "drink": "A) Café",
+            "hobby": "B) Musique",
+            "app": "C) Productivité",
+            "superpower": "A) Voler",
+            "snack_tv": "A) Popcorn",
+            "music": "D) Jazz",
+            "gift_preference": "D) Surprise totale"
+        }
+    },
+    {
+        "name": "Liam",
+        "email": "liam@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "The Big Bang Theory",
+            "drink": "C) Les deux",
+            "hobby": "A) Jardinage",
+            "app": "B) Jeux",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "B) Bonbons",
+            "music": "B) Rock",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Noah",
+        "email": "noah@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "B) Non-fiction",
+            "movie": "Parks and Recreation",
+            "drink": "A) Café",
+            "hobby": "C) Sport",
+            "app": "C) Productivité",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "A) Popcorn",
+            "music": "C) Classique",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Ethan",
+        "email": "ethan@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "A) Fiction",
+            "movie": "Sherlock",
+            "drink": "C) Les deux",
+            "hobby": "D) Autre",
+            "app": "A) Réseaux sociaux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "B) Bonbons",
+            "music": "B) Rock",
+            "gift_preference": "C) Un cadeau personnalisé"
+        }
+    },
+    {
+        "name": "Ava",
+        "email": "ava@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "The Sopranos",
+            "drink": "A) Café",
+            "hobby": "A) Dessin/Peinture",
+            "app": "B) Jeux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "C) Noix",
+            "music": "D) Jazz",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Isabella",
+        "email": "isabella@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "B) Non-fiction",
+            "movie": "The Witcher",
+            "drink": "B) Thé",
+            "hobby": "C) Sport",
+            "app": "C) Productivité",
+            "superpower": "A) Voler",
+            "snack_tv": "A) Popcorn",
+            "music": "C) Classique",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    },
+    {
+        "name": "Harper",
+        "email": "harper@example.com",
+        "preferences": {
+            "snack": "A) Chocolat",
+            "book": "C) Bande dessinée",
+            "movie": "Succession",
+            "drink": "C) Les deux",
+            "hobby": "D) Autre",
+            "app": "B) Jeux",
+            "superpower": "C) Téléportation",
+            "snack_tv": "B) Bonbons",
+            "music": "B) Rock",
+            "gift_preference": "C) Un cadeau personnalisé"
+        }
+    },
+    {
+        "name": "James",
+        "email": "james@example.com",
+        "preferences": {
+            "snack": "B) Chips",
+            "book": "A) Fiction",
+            "movie": "Mad Men",
+            "drink": "A) Café",
+            "hobby": "A) Dessin/Peinture",
+            "app": "C) Productivité",
+            "superpower": "B) Invisibilité",
+            "snack_tv": "C) Noix",
+            "music": "A) Pop",
+            "gift_preference": "B) Un cadeau amusant"
+        }
+    },
+    {
+        "name": "Emily",
+        "email": "emily@example.com",
+        "preferences": {
+            "snack": "C) Fruits",
+            "book": "D) Je ne lis pas beaucoup",
+            "movie": "The Good Place",
+            "drink": "B) Thé",
+            "hobby": "C) Sport",
+            "app": "A) Réseaux sociaux",
+            "superpower": "D) Lire les pensées",
+            "snack_tv": "A) Popcorn",
+            "music": "D) Jazz",
+            "gift_preference": "D) Surprise totale"
+        }
+    },
+    {
+        "name": "Benjamin",
+        "email": "benjamin@example.com",
+        "preferences": {
+            "snack": "D) Autre",
+            "book": "B) Non-fiction",
+            "movie": "The West Wing",
+            "drink": "A) Café",
+            "hobby": "D) Autre",
+            "app": "C) Productivité",
+            "superpower": "A) Voler",
+            "snack_tv": "B) Bonbons",
+            "music": "C) Classique",
+            "gift_preference": "A) Un cadeau pratique"
+        }
+    }
+]
